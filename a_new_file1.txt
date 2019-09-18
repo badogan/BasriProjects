@@ -1,1 +1,2 @@
 a_new_file1 created after creating a and switching to a new branch
+now modified
